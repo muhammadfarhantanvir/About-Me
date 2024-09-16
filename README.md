@@ -1,6 +1,6 @@
 - This is Muhammad Farhan Tanvir
 
-- Currently, I am studying  Master's **Data Science** at Technische Universität Dortmund
+- Currently, I am studying  Master's **Data Science** at Universität Potsdam
 
 - Now I am working as a  **Data scientist** at the Institute for Market Research, Statistics and Forecasting
 
