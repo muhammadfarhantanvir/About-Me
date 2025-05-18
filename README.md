@@ -1,48 +1,37 @@
-- This is Muhammad Farhan Tanvir
+# 👋 Hi, I'm Muhammad Farhan Tanvir
 
-- Currently, I am studying  Master's **Data Science** at Universität Potsdam
+Welcome to my GitHub! I'm a data scientist, and problem solver who enjoys building intelligent systems and data-driven applications. Whether it's deep learning, NLP, or LLM tools for complex workflows, I'm always exploring how to turn ideas into impactful solutions.
 
-- Now I am working as a  **Data scientist** at the Institute for Market Research, Statistics and Forecasting
+---
 
+## 🔍 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammad-farhan-tanvir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-farhan-tanvir" height="30" width="40" /></a>
-</p>
+- 🎓 Currently doing master's in data science.
+- 🧠 Interested in **deep learning**, **LLM**, **Machine Learning**, and **Artificial Intelligences**
+- 🛠️ Skilled in Python, R, SQL, and tools like TensorFlow, PyTorch, Scikit-learn so on.
+- 🗂️ Experience with end-to-end project pipelines: from data preprocessing to model deployment and visualization
+- 🌐 Fluent in both **technical** and **creative** problem solving
 
-## ⚡ Technologies I use 
+---
 
-<div align="center">
-<table align="center">
-    <tr>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/python.jpeg" width="65px"/>
-            <br /> Python
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/jupyter.png" width="65px"/>
-            <br /> Jupyter
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/tensorflow.png" width="65px"/>
-            <br /> TensorFlow
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/pytorch.png" width="65px"/>
-            <br /> Pytorch
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/scikitlearn.png" width="65px"/>
-            <br /> Scikit Learn
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/fastapi.png" width="65px"/>
-            <br /> FastAPI
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/docker.png" width="65px"/>
-            <br /> Docker
-        </td>
-    </tr>
-</table>
-</div>
+## 🧪 Projects
+
+- 🔬 **EmotionStat**: NLP-based emotion detection & analysis using German-language chat data (MALDIX)
+- 🌿 **PaddyLeafNet**: InceptionV3-based classifier for identifying diseases in paddy leaf images
+- 🧠 **Cancer Detection Assistant**: AI-powered model for early detection and guideline suggestions
+
+---
+
+## 📫 Get in Touch
+
+- 📧 **Email:** [tanvirf07@gmail.com](mailto:tanvirf07@gmail.com)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/muhammad-farhan-tanvir](https://www.linkedin.com/in/muhammad-farhan-tanvir)
+- 📝 **Portfolio:** [https://sites.google.com/view/muhammadfarhantanvir](https://sites.google.com/view/muhammadfarhantanvir)
+
+---
+
+## 💡 Fun Fact
+
+I love merging structured logic with creative data analysis. Whether it's building for complex models or doing temporal trend analysis in chat logs — I believe great tech should be both intelligent and human-centered.
+
+Thanks for visiting! 🌟
